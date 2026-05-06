@@ -2,8 +2,7 @@
 
 | GitHub Streak | Tech Stack |
 |--------------|------------|
-| ![GitHub Streak](https://streak-stats.demolab.com?user=javornicek&theme=dark&border_radius=5) | ![Tech Stack](https://skillicons.dev/icons?i=git,mysql,sass,cs,javascript,html,css,react,vue&theme=dark) |
-
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=javornicek&theme=dark&hide_border=true) | ![Tech Stack](https://skillicons.dev/icons?i=git,mysql,sass,cs,javascript,html,css,react,vue&theme=dark) |
 ---
 
 ## 🛠️ Tools & Technologies
