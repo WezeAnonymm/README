@@ -2,7 +2,7 @@
 
 | Streaks | Tech Stack |
 |--------|-----------|
-| ![GitHub Streak](https://streak-stats.demolab.com?user=WezeAnonym&theme=dark&border_radius=5) | ![Most Used Languages](https://skillicons.dev/icons?i=git,mysql,sass,cs,javascript,html,css,react,vue&theme=dark) |
+| ![GitHub Streak](https://streak-stats.demolab.com?user=Javornicek&theme=dark&border_radius=5) | ![Most Used Languages](https://skillicons.dev/icons?i=git,mysql,sass,cs,javascript,html,css,react,vue&theme=dark) |
 
 
 ---
@@ -13,7 +13,7 @@
 ---
 
 ## 🐍 Contributions
-![Snake animation](https://github.com/WezeAnonym/WezeAnonym/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/WezeAnonym/Javornicek/blob/output/github-contribution-grid-snake-dark.svg)
 
 <!-- ## 🎵 Currently Playing
 [![Currently Playing](https://spotify-github-profile.kittinanx.com/api/view?uid=wotodn21znbrpuxvj3pcxgv7d&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile) -->
